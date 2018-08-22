@@ -1,7 +1,10 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * 1. Написать программу - переводчик, которая будет переводить
+ * текст в файле English.in, написанный на английском языке, на
+ * украинский язык, согласно заранее составленному словарю.
+ * Результат сохранить в файл Ukrainian.out.
+ * 2. Сделать ф-ю ручного наполнения словаря и возможность его
+ * сохранения на диск.
  */
 package homework10;
 
